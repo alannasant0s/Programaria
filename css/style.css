@@ -3,12 +3,12 @@ body {
   font-family: Open Sans, sans-serif;
   background-color: #8a71c9;
   color:#ffffff;
-   margin: 0px;
+  margin: 0;
 }
 
 h2{
   color: #2a0074;
-  font-size: 40px;
+  
 }
 
 .titulo-verde{
@@ -24,5 +24,6 @@ h2{
 }
 section{
   background-color: yellow;
-  width 50%:
+  max-width: 60%;
+  margin: 0 auto;
 }
