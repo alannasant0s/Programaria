@@ -4,7 +4,7 @@ Repositório para os exercícios e projetos do curso de frontend da Programaria.
 
 #### Tecnologias utilizadas
 🟢 HTML5  
-🔵 CSS3 
+🔵 CSS3
 🟡 JavaScript
 
 
